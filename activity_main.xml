@@ -88,7 +88,9 @@
         android:fontFamily="cursive"
         android:gravity="center"
         android:text="Way3"
+        
         android:onClick="way3"
+        
         android:textColor="#FFFFFF"
         android:textColorLink="#FF0000"
         android:textSize="60sp"
@@ -112,7 +114,9 @@
         android:fontFamily="cursive"
         android:gravity="center"
         android:text="Third"
-        android:onClick="third"
+        
+        android:onClick="third"   
+        
         android:textColor="#1D0E0E"
         android:textColorLink="#FF0000"
         android:textSize="60sp"
